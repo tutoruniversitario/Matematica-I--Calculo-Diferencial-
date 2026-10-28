@@ -1,4 +1,4 @@
-# Índice General de Contenido
+# Índice de Contenido
 
 * **Funciones**
   * 📌 **Funciones.**
