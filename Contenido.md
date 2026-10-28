@@ -1,6 +1,6 @@
 # Índice General de Contenido
 
-* **Cálculo Diferencial** (Matemática I)
+* **Funciones**
   * 📌 **Funciones.**
     * Producto cartesiano.
     * Relaciones.
@@ -19,6 +19,6 @@
     * Límites unilaterales.
     * Límites trigonométricos.
 
-* **Física III**
+* **Límites**
   * 📌 **Movimiento oscilatorio** (Tema)
     * Movimiento rectilíneo uniforme
